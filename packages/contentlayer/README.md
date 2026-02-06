@@ -193,5 +193,6 @@ Join [our Discord community](https://discord.gg/fk83HNECYJ) to get help, suggest
 - [Top4AI](https://top4ai.com)
 - [haklee.me](https://www.haklee.me)([Source](https://github.com/ohprettyhak/haklee.me))
 - [blog.imbios.dev](https://blog.imbios.dev/)
+- [wadi3.codes](https://wadi3.codes/)
 
 Are you using Contentlayer? Please add your page (and repo) to the end of the list via a PR. 🙏
